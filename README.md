@@ -10,7 +10,7 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                         | Downloads |
 | ------------------------------------------------------------ | --------- |
-| [winston-axios](https://www.npmjs.com/package/winston-axios) | 2773      |
+| [winston-axios](https://www.npmjs.com/package/winston-axios) | 2775      |
 | [is-timezone](https://www.npmjs.com/package/is-timezone)     | 187       |
-| **Sum**                                                      | **2960**  |
+| **Sum**                                                      | **2962**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
