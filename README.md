@@ -10,8 +10,8 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                         | Downloads |
 | ------------------------------------------------------------ | --------- |
-| [winston-axios](https://www.npmjs.com/package/winston-axios) | 3385      |
-| [mini-xml](https://www.npmjs.com/package/mini-xml)           | 543       |
+| [winston-axios](https://www.npmjs.com/package/winston-axios) | 3389      |
+| [mini-xml](https://www.npmjs.com/package/mini-xml)           | 558       |
 | [is-timezone](https://www.npmjs.com/package/is-timezone)     | 231       |
-| **Sum**                                                      | **4159**  |
+| **Sum**                                                      | **4178**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
