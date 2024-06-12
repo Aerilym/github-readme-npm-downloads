@@ -8,10 +8,11 @@ All of my npm packages and their downloads
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                         | Downloads |
-| ------------------------------------------------------------ | --------- |
-| [winston-axios](https://www.npmjs.com/package/winston-axios) | 3695      |
-| [mini-xml](https://www.npmjs.com/package/mini-xml)           | 1314      |
-| [is-timezone](https://www.npmjs.com/package/is-timezone)     | 310       |
-| **Sum**                                                      | **5319**  |
+| Name                                                 | Downloads                                                                            |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                                |
+| [path](https://www.npmjs.com/package/path)           | /npm-stat/api/download-counts                                                        |
+| [status](https://www.npmjs.com/package/status)       | 0                                                                                    |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2024-06-12T22:08:17.442+00:00                                                        |
+| **Sum**                                              | **Internal Server Error/npm-stat/api/download-counts02024-06-12T22:08:17.442+00:00** |
 <!-- AUTO-GENERATED-CONTENT:END -->
