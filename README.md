@@ -10,9 +10,9 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                 | Downloads |
 | -------------------------------------------------------------------- | --------- |
-| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4206      |
-| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 1692      |
-| [is-timezone](https://www.npmjs.com/package/is-timezone)             | 443       |
+| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4241      |
+| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 1701      |
+| [is-timezone](https://www.npmjs.com/package/is-timezone)             | 455       |
 | [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 77        |
-| **Sum**                                                              | **6418**  |
+| **Sum**                                                              | **6474**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
