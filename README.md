@@ -11,8 +11,8 @@ All of my npm packages and their downloads
 | Name                                                                 | Downloads |
 | -------------------------------------------------------------------- | --------- |
 | [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4437      |
-| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2161      |
+| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2162      |
 | [is-timezone](https://www.npmjs.com/package/is-timezone)             | 528       |
 | [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 86        |
-| **Sum**                                                              | **7212**  |
+| **Sum**                                                              | **7213**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
