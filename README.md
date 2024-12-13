@@ -8,11 +8,16 @@ All of my npm packages and their downloads
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                 | Downloads                                                                   |
-| ---------------------------------------------------- | --------------------------------------------------------------------------- |
-| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                       |
-| [path](https://www.npmjs.com/package/path)           | /api/download-counts                                                        |
-| [status](https://www.npmjs.com/package/status)       | 0                                                                           |
-| [timestamp](https://www.npmjs.com/package/timestamp) | 2024-12-11T22:10:49.413+00:00                                               |
-| **Sum**                                              | **Internal Server Error/api/download-counts02024-12-11T22:10:49.413+00:00** |
+| Name                                                                 | Downloads |
+| -------------------------------------------------------------------- | --------- |
+| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4465      |
+| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2226      |
+| [is-timezone](https://www.npmjs.com/package/is-timezone)             | 540       |
+| [@web3sheet/core](https://www.npmjs.com/package/@web3sheet/core)     | 346       |
+| [usepref](https://www.npmjs.com/package/usepref)                     | 330       |
+| [@web3sheet/util](https://www.npmjs.com/package/@web3sheet/util)     | 303       |
+| [@web3sheet/wallet](https://www.npmjs.com/package/@web3sheet/wallet) | 293       |
+| [@web3sheet/ui](https://www.npmjs.com/package/@web3sheet/ui)         | 240       |
+| [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 86        |
+| **Sum**                                                              | **8829**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
