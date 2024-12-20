@@ -10,14 +10,14 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                 | Downloads |
 | -------------------------------------------------------------------- | --------- |
-| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4513      |
-| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2270      |
+| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4517      |
+| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2272      |
 | [is-timezone](https://www.npmjs.com/package/is-timezone)             | 541       |
+| [usepref](https://www.npmjs.com/package/usepref)                     | 407       |
 | [@web3sheet/core](https://www.npmjs.com/package/@web3sheet/core)     | 406       |
-| [usepref](https://www.npmjs.com/package/usepref)                     | 401       |
 | [@web3sheet/util](https://www.npmjs.com/package/@web3sheet/util)     | 353       |
 | [@web3sheet/wallet](https://www.npmjs.com/package/@web3sheet/wallet) | 344       |
 | [@web3sheet/ui](https://www.npmjs.com/package/@web3sheet/ui)         | 286       |
 | [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 87        |
-| **Sum**                                                              | **9201**  |
+| **Sum**                                                              | **9213**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
