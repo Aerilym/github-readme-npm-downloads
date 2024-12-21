@@ -18,6 +18,6 @@ All of my npm packages and their downloads
 | [@web3sheet/util](https://www.npmjs.com/package/@web3sheet/util)     | 353       |
 | [@web3sheet/wallet](https://www.npmjs.com/package/@web3sheet/wallet) | 344       |
 | [@web3sheet/ui](https://www.npmjs.com/package/@web3sheet/ui)         | 286       |
-| [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 87        |
-| **Sum**                                                              | **9213**  |
+| [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 88        |
+| **Sum**                                                              | **9214**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
