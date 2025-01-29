@@ -10,14 +10,14 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                 | Downloads |
 | -------------------------------------------------------------------- | --------- |
-| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4580      |
-| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2497      |
-| [usepref](https://www.npmjs.com/package/usepref)                     | 769       |
-| [@web3sheet/core](https://www.npmjs.com/package/@web3sheet/core)     | 617       |
+| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4609      |
+| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2513      |
+| [usepref](https://www.npmjs.com/package/usepref)                     | 770       |
+| [@web3sheet/core](https://www.npmjs.com/package/@web3sheet/core)     | 618       |
 | [is-timezone](https://www.npmjs.com/package/is-timezone)             | 556       |
-| [@web3sheet/wallet](https://www.npmjs.com/package/@web3sheet/wallet) | 553       |
+| [@web3sheet/wallet](https://www.npmjs.com/package/@web3sheet/wallet) | 554       |
 | [@web3sheet/util](https://www.npmjs.com/package/@web3sheet/util)     | 546       |
-| [@web3sheet/ui](https://www.npmjs.com/package/@web3sheet/ui)         | 482       |
-| [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 96        |
-| **Sum**                                                              | **10696** |
+| [@web3sheet/ui](https://www.npmjs.com/package/@web3sheet/ui)         | 483       |
+| [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 97        |
+| **Sum**                                                              | **10746** |
 <!-- AUTO-GENERATED-CONTENT:END -->
