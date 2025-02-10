@@ -10,14 +10,14 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                 | Downloads |
 | -------------------------------------------------------------------- | --------- |
-| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4641      |
-| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2574      |
-| [usepref](https://www.npmjs.com/package/usepref)                     | 866       |
-| [@web3sheet/core](https://www.npmjs.com/package/@web3sheet/core)     | 678       |
-| [@web3sheet/wallet](https://www.npmjs.com/package/@web3sheet/wallet) | 612       |
-| [@web3sheet/util](https://www.npmjs.com/package/@web3sheet/util)     | 599       |
+| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4642      |
+| [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2577      |
+| [usepref](https://www.npmjs.com/package/usepref)                     | 871       |
+| [@web3sheet/core](https://www.npmjs.com/package/@web3sheet/core)     | 681       |
+| [@web3sheet/wallet](https://www.npmjs.com/package/@web3sheet/wallet) | 615       |
+| [@web3sheet/util](https://www.npmjs.com/package/@web3sheet/util)     | 602       |
 | [is-timezone](https://www.npmjs.com/package/is-timezone)             | 570       |
-| [@web3sheet/ui](https://www.npmjs.com/package/@web3sheet/ui)         | 541       |
+| [@web3sheet/ui](https://www.npmjs.com/package/@web3sheet/ui)         | 544       |
 | [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 102       |
-| **Sum**                                                              | **11183** |
+| **Sum**                                                              | **11204** |
 <!-- AUTO-GENERATED-CONTENT:END -->
