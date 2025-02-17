@@ -10,7 +10,7 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                                 | Downloads |
 | -------------------------------------------------------------------- | --------- |
-| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4645      |
+| [winston-axios](https://www.npmjs.com/package/winston-axios)         | 4650      |
 | [mini-xml](https://www.npmjs.com/package/mini-xml)                   | 2606      |
 | [usepref](https://www.npmjs.com/package/usepref)                     | 908       |
 | [@web3sheet/core](https://www.npmjs.com/package/@web3sheet/core)     | 698       |
@@ -19,5 +19,5 @@ All of my npm packages and their downloads
 | [is-timezone](https://www.npmjs.com/package/is-timezone)             | 570       |
 | [@web3sheet/ui](https://www.npmjs.com/package/@web3sheet/ui)         | 564       |
 | [photoprism-helper](https://www.npmjs.com/package/photoprism-helper) | 102       |
-| **Sum**                                                              | **11348** |
+| **Sum**                                                              | **11353** |
 <!-- AUTO-GENERATED-CONTENT:END -->
